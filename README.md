@@ -1,4 +1,4 @@
-# CCM101-katrimando
+# CCM101-krimando
 
 Hi! I am Katrina May Rimando, an Information Technology student and an
 aspiring Cloud Infrastructure Engineer. This repository serves as my
