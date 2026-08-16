@@ -44,3 +44,11 @@ GCP is especially useful for companies that need **large-scale data processing, 
 
 ![GCP Console](Screenshots/gcp_homepage.png)
 
+## References
+
+Google Cloud. (n.d.). *Products and services*. https://cloud.google.com/products
+
+Google Cloud. (n.d.). *Google Cloud locations*. https://cloud.google.com/about/locations
+
+Google Cloud. (n.d.). *Google Cloud Console*. https://console.cloud.google.com/
+
