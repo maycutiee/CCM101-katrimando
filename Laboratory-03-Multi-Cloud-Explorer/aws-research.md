@@ -40,4 +40,4 @@ AWS is useful for enterprises because it can provide computing resources quickly
 
 ## Screenshot
 
-![AWS Console](images/aws homepage.png)
+![AWS Console](Screenshots/aws_homepage.png)
