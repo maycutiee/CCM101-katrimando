@@ -1,72 +1,72 @@
-Client Recommendations
-Client A – Startup Company
+# Client Recommendations
 
-Recommended Platform: AWS
+## Client A – Startup Company
 
-I recommend AWS because it offers many cloud services that can support a growing startup. The company can start with a small amount of resources and increase them as the application grows. AWS also provides services that can support mobile applications and data storage.
+**Recommended Platform:** AWS
 
-Recommended Services:
+**Explanation:** I recommend AWS because it offers many cloud services that can support a growing startup. The company can start with a small amount of resources and increase them as the application grows. AWS also provides services that can support mobile applications and data storage.
 
-Amazon EC2 – for application computing
+**Recommended Services:**
+1. **Amazon EC2** – for application computing
+2. **Amazon S3** – for storing data and files
+3. **Amazon RDS** – for the application database
 
-Amazon S3 – for storing data and files
+---
 
-Amazon RDS – for the application database
+## Client B – University
 
-Client B – University
+**Recommended Platform:** Microsoft Azure
 
-Recommended Platform: Microsoft Azure
+**Explanation:** I recommend Microsoft Azure because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft technologies and can help the university move some of its existing services to the cloud. This can make the transition easier for the university.
 
-I recommend Microsoft Azure because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft technologies and can help the university move some of its existing services to the cloud. This can make the transition easier for the university.
+**Recommended Services:**
+1. **Azure Virtual Machines** – for Windows Server workloads
+2. **Microsoft Entra ID** – for identity and access management
+3. **Azure SQL Database** – for databases
 
-Recommended Services:
+---
 
-Azure Virtual Machines – for Windows Server workloads
+## Client C – AI Research Company
 
-Microsoft Entra ID – for identity and access management
+**Recommended Platform:** Google Cloud
 
-Azure SQL Database – for databases
+**Explanation:** I recommend Google Cloud because the company focuses on Artificial Intelligence and Machine Learning. Google Cloud provides services that support AI, machine learning, and high-performance computing. It also provides tools for developing and deploying AI applications.
 
-Client C – AI Research Company
+**Recommended Services:**
+1. **Compute Engine** – for computing resources
+2. **Vertex AI** – for AI and machine learning
+3. **Google Kubernetes Engine (GKE)** – for deploying applications
 
-Recommended Platform: Google Cloud
+---
 
-I recommend Google Cloud because the company focuses on Artificial Intelligence and Machine Learning. Google Cloud provides services that support AI, machine learning, and high-performance computing. It also provides tools for developing and deploying AI applications.
+## Client D – Global E-Commerce Company
 
-Recommended Services:
+**Recommended Platform:** AWS
 
-Compute Engine – for computing resources
+**Explanation:** I recommend AWS because the company needs highly available infrastructure for customers around the world. AWS has a global infrastructure and services that can support scalable applications. It can also help the company handle changing customer demand.
 
-Vertex AI – for AI and machine learning
+**Recommended Services:**
+1. **Amazon EC2** – for application servers
+2. **Amazon S3** – for storing data and files
+3. **Elastic Load Balancing** – for distributing traffic across servers
 
-Google Kubernetes Engine (GKE) – for deploying applications
+---
 
-Client D – Global E-Commerce Company
+## Multi-Cloud Decision Matrix
 
-Recommended Platform: AWS
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers many services that can support a growing startup. |
+| Enterprise Organization | AWS | AWS provides many services for enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure works well with Microsoft technologies. |
+| AI / Machine Learning | Google Cloud | Google Cloud provides strong AI and machine learning services. |
+| Kubernetes Deployment | Google Cloud | Google Kubernetes Engine (GKE) provides managed Kubernetes. |
+| Global Web Application | AWS | AWS has a global infrastructure that can support applications worldwide. |
 
-I recommend AWS because the company needs highly available infrastructure for customers around the world. AWS has a global infrastructure and services that can support scalable applications. It can also help the company handle changing customer demand.
+---
 
-Recommended Services:
+## References
 
-Amazon EC2 – for application servers
-
-Amazon S3 – for storing data and files
-
-Elastic Load Balancing – for distributing traffic across servers
-
-Multi-Cloud Decision Matrix
-Business Requirement	Recommended Platform	Justification
-Startup Company	AWS	AWS offers many services that can support a growing startup.
-Enterprise Organization	AWS	AWS provides many services for enterprise workloads.
-Microsoft Environment	Microsoft Azure	Azure works well with Microsoft technologies.
-AI / Machine Learning	Google Cloud	Google Cloud provides strong AI and machine learning services.
-Kubernetes Deployment	Google Cloud	Google Kubernetes Engine (GKE) provides managed Kubernetes.
-Global Web Application	AWS	AWS has a global infrastructure that can support applications worldwide.
-References
-
-Amazon Web Services. (n.d.). AWS products. AWS Products
-
-Microsoft. (n.d.). Azure products. Azure Products
-
-Google Cloud. (n.d.). Products and services. Google Cloud Products
+- Amazon Web Services. (n.d.). *AWS Products*. https://aws.amazon.com/products/
+- Microsoft. (n.d.). *Azure Products*. https://azure.microsoft.com/en-us/products/
+- Google Cloud. (n.d.). *Products and Services*. https://cloud.google.com/products
