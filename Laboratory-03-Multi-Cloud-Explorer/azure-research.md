@@ -40,3 +40,12 @@ Many organizations use Microsoft Azure, especially businesses that already use M
 
 ![Azure Console](Screenshots/azure_homepage.png)
 
+##References
+
+## Microsoft Azure
+Microsoft. (n.d.). *Azure products*. https://azure.microsoft.com/en-us/products/
+
+Microsoft. (n.d.). *Azure global infrastructure*. https://azure.microsoft.com/en-us/explore/global-infrastructure/
+
+Microsoft. (n.d.). *Azure Portal documentation*. https://learn.microsoft.com/en-us/azure/azure-portal/
+
