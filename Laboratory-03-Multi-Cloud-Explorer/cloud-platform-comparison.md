@@ -1,79 +1,21 @@
-# Client Recommendations
+# Cloud Platform Comparison
 
-## Client A – Startup Company
+## Comparison Table
 
-**Recommended Platform: AWS**
+| Category                | AWS                                                                              | Microsoft Azure                                                                                   | Google Cloud Platform                                                               |
+| ----------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Launch Year**         | 2006                                                                             | 2010                                                                                              | 2008                                                                                |
+| **Compute Service**     | Amazon EC2                                                                       | Azure Virtual Machines                                                                            | Google Compute Engine                                                               |
+| **Storage Service**     | Amazon S3                                                                        | Azure Blob Storage                                                                                | Google Cloud Storage                                                                |
+| **Networking Service**  | Amazon VPC                                                                       | Azure Virtual Network                                                                             | Google Cloud VPC                                                                    |
+| **Identity Service**    | AWS IAM                                                                          | Microsoft Entra ID                                                                                | Google Cloud IAM                                                                    |
+| **Primary Strength**    | Wide range of cloud services and global infrastructure                           | Strong integration with Microsoft products and enterprise systems                                 | Data analytics, AI, and machine learning                                            |
+| **Ideal Organizations** | Startups, enterprises, developers, and organizations needing many cloud services | Businesses already using Microsoft products such as Windows Server, Microsoft 365, and SQL Server | Companies that need data analytics, AI, machine learning, and scalable applications |
 
-I recommend **AWS** because it offers many cloud services that can support a growing startup. The company can start with a small amount of resources and increase them as the application grows. AWS also provides services for computing, storage, and databases.
+### Short Explanation
 
-**Recommended Services:**
+**AWS** is known for having a very large selection of cloud services. Amazon EC2 provides virtual servers, Amazon S3 provides cloud storage, and Amazon VPC provides networking. AWS IAM is used to control access to AWS resources.
 
-* **Amazon EC2** – for application computing
-* **Amazon S3** – for storing data and files
-* **Amazon RDS** – for the application database
+**Microsoft Azure** is a good choice for organizations that already use Microsoft technologies. Azure Virtual Network provides networking for Azure resources and allows them to communicate securely with other resources and networks.
 
----
-
-## Client B – University
-
-**Recommended Platform: Microsoft Azure**
-
-I recommend **Microsoft Azure** because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft technologies and can help the university move some of its existing services to the cloud. This can make the transition easier and allow the university to manage its resources in one platform.
-
-**Recommended Services:**
-
-* **Azure Virtual Machines** – for Windows Server workloads
-* **Microsoft Entra ID** – for identity and access management
-* **Azure SQL Database** – for databases
-
----
-
-## Client C – AI Research Company
-
-**Recommended Platform: Google Cloud**
-
-I recommend **Google Cloud** because the company focuses on Artificial Intelligence and Machine Learning. Google Cloud provides services that support AI development, machine learning, data processing, and application deployment. These services can help researchers develop and test AI solutions.
-
-**Recommended Services:**
-
-* **Compute Engine** – for computing resources
-* **Vertex AI** – for AI and machine learning
-* **Google Kubernetes Engine (GKE)** – for deploying and managing applications
-
----
-
-## Client D – Global E-Commerce Company
-
-**Recommended Platform: AWS**
-
-I recommend **AWS** because the company needs highly available infrastructure for customers around the world. AWS has global infrastructure and scalable services that can support a large e-commerce application. It can also help the company handle changes in customer demand.
-
-**Recommended Services:**
-
-* **Amazon EC2** – for application servers
-* **Amazon S3** – for storing data and files
-* **Elastic Load Balancing** – for distributing traffic across servers
-
----
-
-# Multi-Cloud Decision Matrix
-
-| Business Requirement    | Recommended Platform | Justification                                                          |
-| ----------------------- | -------------------- | ---------------------------------------------------------------------- |
-| Startup Company         | AWS                  | AWS offers many services that can support a growing startup.           |
-| Enterprise Organization | AWS                  | AWS provides many services for enterprise workloads.                   |
-| Microsoft Environment   | Microsoft Azure      | Azure works well with Microsoft technologies.                          |
-| AI / Machine Learning   | Google Cloud         | Google Cloud provides strong AI and machine learning services.         |
-| Kubernetes Deployment   | Google Cloud         | Google Kubernetes Engine (GKE) provides managed Kubernetes.            |
-| Global Web Application  | AWS                  | AWS has global infrastructure that can support applications worldwide. |
-
-# References
-
-Amazon Web Services. (n.d.). *AWS products*.
-https://aws.amazon.com/products/
-
-Microsoft. (n.d.). *Azure products*.
-https://azure.microsoft.com/en-us/products/
-
-Google Cloud. (n.d.). *Products and services*.
-https://cloud.google.com/products
+**Google Cloud Platform (GCP)** is strong in data analytics, AI, and machine learning. Google Compute Engine provides virtual machines, while Google Cloud VPC provides networking for cloud resources. Google Cloud IAM controls which users have access to specific resources.
