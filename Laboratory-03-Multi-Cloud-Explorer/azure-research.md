@@ -38,5 +38,5 @@ Many organizations use Microsoft Azure, especially businesses that already use M
 
 ## Screenshot
 
-![Azure Console](Screenshots/azure-homepage.png)
+![Azure Console](Screenshots/azure_homepage.png)
 
