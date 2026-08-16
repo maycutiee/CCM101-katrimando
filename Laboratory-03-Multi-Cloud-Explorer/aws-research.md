@@ -41,3 +41,12 @@ AWS is useful for enterprises because it can provide computing resources quickly
 ## Screenshot
 
 ![AWS Console](Screenshots/aws_homepage.png)
+
+## References
+
+### AWS
+Amazon Web Services. (n.d.). *AWS products*. https://aws.amazon.com/products/
+
+Amazon Web Services. (n.d.). *AWS global infrastructure*. https://aws.amazon.com/about-aws/global-infrastructure/
+
+Amazon Web Services. (n.d.). *AWS Management Console*. https://aws.amazon.com/console/
