@@ -1,16 +1,9 @@
 # System Information
 
-## Linux Distribution
-Ubuntu 24.04 LTS (Noble Numbat)
+## Environment Details
 
-## Kernel Version
-(paste output of `uname -r`)
-
-## CPU Information
-(paste relevant lines from `lscpu`, e.g., Model name, CPU(s), Architecture)
-
-## Total Memory
-(paste relevant line from `free -h`, e.g., Mem: total used free)
-
-## Available Disk Space
-(paste relevant line from `df -h`, e.g., Filesystem Size Used Avail Use%)
+- **Linux Distribution:** Ubuntu 24.04.4 LTS (Noble Numbat)
+- **Kernel Version:** 6.8.0-136-generic
+- **CPU Information:** Intel Xeon E312xx (Sandy Bridge, IBRS update)
+- **Total Memory:** 1.9Gi
+- **Available Disk Space:** 13G (on /dev/vda1)
