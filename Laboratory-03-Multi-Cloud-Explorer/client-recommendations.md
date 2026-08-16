@@ -1,7 +1,72 @@
-| Client                                   | Recommended Platform            | Explanation                                                                                                                                                                                                                                                                                                            |
-| ---------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Client A – Startup Company**           | **Google Cloud Platform (GCP)** | GCP is a good choice for a startup because it offers flexible and scalable cloud services. The company can start with a small setup to save money and increase resources as the mobile app grows. GCP also provides managed services that can reduce the need for a large IT team.                                     |
-| **Client B – University**                | **Microsoft Azure**             | Azure is the best choice because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft technologies, making migration easier. It also supports hybrid environments, so the university can gradually move its systems to the cloud.                          |
-| **Client C – AI Research Company**       | **Google Cloud Platform (GCP)** | GCP is suitable for AI and machine learning because it provides powerful computing and specialized AI/ML services. It supports GPUs and other high-performance resources for demanding workloads. Its AI tools can also help researchers develop, train, and deploy machine learning applications.                     |
-| **Client D – Global E-Commerce Company** | **Amazon Web Services (AWS)**   | AWS is a strong choice for a global e-commerce company because it provides highly available and scalable infrastructure. It can automatically increase or decrease resources based on customer traffic. AWS also has a large global network of regions and services that can support customers in different countries. |
+Client Recommendations
+Client A – Startup Company
 
+Recommended Platform: AWS
+
+I recommend AWS because it offers many cloud services that can support a growing startup. The company can start with a small amount of resources and increase them as the application grows. AWS also provides services that can support mobile applications and data storage.
+
+Recommended Services:
+
+Amazon EC2 – for application computing
+
+Amazon S3 – for storing data and files
+
+Amazon RDS – for the application database
+
+Client B – University
+
+Recommended Platform: Microsoft Azure
+
+I recommend Microsoft Azure because the university already uses Windows Server, Microsoft 365, and Active Directory. Azure works well with Microsoft technologies and can help the university move some of its existing services to the cloud. This can make the transition easier for the university.
+
+Recommended Services:
+
+Azure Virtual Machines – for Windows Server workloads
+
+Microsoft Entra ID – for identity and access management
+
+Azure SQL Database – for databases
+
+Client C – AI Research Company
+
+Recommended Platform: Google Cloud
+
+I recommend Google Cloud because the company focuses on Artificial Intelligence and Machine Learning. Google Cloud provides services that support AI, machine learning, and high-performance computing. It also provides tools for developing and deploying AI applications.
+
+Recommended Services:
+
+Compute Engine – for computing resources
+
+Vertex AI – for AI and machine learning
+
+Google Kubernetes Engine (GKE) – for deploying applications
+
+Client D – Global E-Commerce Company
+
+Recommended Platform: AWS
+
+I recommend AWS because the company needs highly available infrastructure for customers around the world. AWS has a global infrastructure and services that can support scalable applications. It can also help the company handle changing customer demand.
+
+Recommended Services:
+
+Amazon EC2 – for application servers
+
+Amazon S3 – for storing data and files
+
+Elastic Load Balancing – for distributing traffic across servers
+
+Multi-Cloud Decision Matrix
+Business Requirement	Recommended Platform	Justification
+Startup Company	AWS	AWS offers many services that can support a growing startup.
+Enterprise Organization	AWS	AWS provides many services for enterprise workloads.
+Microsoft Environment	Microsoft Azure	Azure works well with Microsoft technologies.
+AI / Machine Learning	Google Cloud	Google Cloud provides strong AI and machine learning services.
+Kubernetes Deployment	Google Cloud	Google Kubernetes Engine (GKE) provides managed Kubernetes.
+Global Web Application	AWS	AWS has a global infrastructure that can support applications worldwide.
+References
+
+Amazon Web Services. (n.d.). AWS products. AWS Products
+
+Microsoft. (n.d.). Azure products. Azure Products
+
+Google Cloud. (n.d.). Products and services. Google Cloud Products
